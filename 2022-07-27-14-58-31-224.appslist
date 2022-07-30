@@ -1,0 +1,314 @@
+android.auto_generated_rro__: android.auto_generated_rro__
+Tags: com.android.apps.tag
+com.android.backupconfirm: com.android.backupconfirm
+Default Print Service: com.android.bips
+Bluetooth: com.android.bluetooth
+Bluetooth MIDI Service: com.android.bluetoothmidiservice
+Bookmark Provider: com.android.bookmarkprovider
+Call Log Backup/Restore: com.android.calllogbackup
+CaptivePortalLogin: com.android.captiveportallogin
+com.android.carrierconfig: com.android.carrierconfig
+CarrierDefaultApp: com.android.carrierdefaultapp
+Certificate installer: com.android.certinstaller
+Companion Device Manager: com.android.companiondevicemanager
+com.android.cts.ctsshim: com.android.cts.ctsshim
+com.android.cts.priv.ctsshim: com.android.cts.priv.ctsshim
+Package Access Helper: com.android.defcontainer
+Files: com.android.documentsui
+Basic Daydreams: com.android.dreams.basic
+Photo Screensavers: com.android.dreams.phototable
+Android Easter Egg: com.android.egg
+Emergency information: com.android.emergency
+OK Google enrollment: com.android.hotwordenrollment.okgoogle
+X Google enrollment: com.android.hotwordenrollment.xgoogle
+HTML Viewer: com.android.htmlviewer
+Input Devices: com.android.inputdevices
+Corner cutout: com.android.internal.display.cutout.emulation.corner
+Double cutout: com.android.internal.display.cutout.emulation.double
+Tall cutout: com.android.internal.display.cutout.emulation.tall
+Key Chain: com.android.keychain
+Fused Location: com.android.location.fused
+Work profile setup: com.android.managedprovisioning
+MmsService: com.android.mms.service
+NFC: com.android.nfc
+PacProcessor: com.android.pacprocessor
+Phone: com.android.phone
+Print Spooler: com.android.printspooler
+Blocked Numbers Storage: com.android.providers.blockednumber
+Calendar storage: com.android.providers.calendar
+Download Manager: com.android.providers.downloads
+com.android.providers.partnerbookmarks: com.android.providers.partnerbookmarks
+Settings Storage: com.android.providers.settings
+Dialer Storage: com.android.providers.telephony
+User Dictionary: com.android.providers.userdictionary
+ProxyHandler: com.android.proxyhandler
+SecureElementApplication: com.android.se
+Phone: com.android.server.telecom
+Settings: com.android.settings
+Settings Suggestions: com.android.settings.intelligence
+com.android.sharedstoragebackup: com.android.sharedstoragebackup
+Sim App Dialog: com.android.simappdialog
+Intent Filter Verification Service: com.android.statementservice
+Storage Manager: com.android.storagemanager
+Dark: com.android.systemui.theme.dark
+System Tracing: com.android.traceur
+VpnDialogs: com.android.vpndialogs
+Live Wallpaper Picker: com.android.wallpaper.livepicker
+com.android.wallpaperbackup: com.android.wallpaperbackup
+com.android.wallpapercropper: com.android.wallpapercropper
+Dictionary: com.diotek.sec.lookup.dictionary
+GOS Legacy: com.enhance.gameservice
+Facebook App Manager: com.facebook.appmanager
+Android Setup: com.google.android.apps.restore
+Device Health Services: com.google.android.apps.turbo
+Google Backup Transport: com.google.android.backuptransport
+ConfigUpdater: com.google.android.configupdater
+Android Services Library: com.google.android.ext.services
+Android Shared Library: com.google.android.ext.shared
+Market Feedback Agent: com.google.android.feedback
+com.google.android.gms.policy_sidecar_aps: com.google.android.gms.policy_sidecar_aps
+Google One Time Init: com.google.android.onetimeinitializer
+Package installer: com.google.android.packageinstaller
+Google Partner Setup: com.google.android.partnersetup
+Print Service Recommendation Service: com.google.android.printservice.recommendation
+Android Setup: com.google.android.setupwizard
+Google Calendar Sync: com.google.android.syncadapters.calendar
+Google Contacts Sync: com.google.android.syncadapters.contacts
+Android System WebView: com.google.android.webview
+YouTube: com.google.android.youtube
+ARCore: com.google.ar.core
+Google VR Services: com.google.vr.vrcore
+Hiya Service: com.hiya.star
+Foundation: com.monotype.android.font.foundation
+Samsung account: com.osp.app.signin
+Record screen: com.rocketsauce83.screenrecordlauncher
+Samsung text-to-speech engine: com.samsung.SMT
+AASAservice: com.samsung.aasaservice
+Accessibility: com.samsung.accessibility
+IMS Settings: com.samsung.advp.imssettings
+MTP application: com.samsung.android.MtpApplication
+Settings: com.samsung.android.SettingsReceiver
+Wi-Fi Direct: com.samsung.android.allshare.service.fileshare
+Nearby Service: com.samsung.android.allshare.service.mediashare
+Sound detectors: com.samsung.android.app.advsounddetector
+Always On Display: com.samsung.android.app.aodservice
+Apps edge: com.samsung.android.app.appsedge
+Assistant menu: com.samsung.android.app.assistantmenu
+Default live stickers: com.samsung.android.app.camera.sticker.facear.preload
+Default 3D live sticker: com.samsung.android.app.camera.sticker.facear3d.preload
+Stamps: com.samsung.android.app.camera.sticker.stamp.preload
+Clipboard edge: com.samsung.android.app.clipboardedge
+ClockFace: com.samsung.android.app.clockface
+Edge screen: com.samsung.android.app.cocktailbarservice
+Live focus: com.samsung.android.app.dofviewer
+Edge Touch: com.samsung.android.app.edgetouch
+Finder: com.samsung.android.app.galaxyfinder
+Nice Catch: com.samsung.android.app.goodcatch
+Virtual shot viewer: com.samsung.android.app.interactivepanoramaviewer
+LED icon editor: com.samsung.android.app.ledcoverdream
+Samsung MirrorLink 1.1: com.samsung.android.app.mirrorlink
+Motion panorama viewer: com.samsung.android.app.motionpanoramaviewer
+Configuration update: com.samsung.android.app.omcagent
+Magnify: com.samsung.android.app.readingglass
+Bixby Routines: com.samsung.android.app.routines
+Samsung Internet panel: com.samsung.android.app.sbrowseredge
+Motion wide-angle selfie viewer: com.samsung.android.app.selfmotionpanoramaviewer
+SettingsBixby: com.samsung.android.app.settings.bixby
+Link Sharing: com.samsung.android.app.simplesharing
+Samsung capture: com.samsung.android.app.smartcapture
+What's new: com.samsung.android.app.social
+Sound picker: com.samsung.android.app.soundpicker
+Bixby Home: com.samsung.android.app.spage
+Voice Assistant: com.samsung.android.app.talkback
+Tasks edge: com.samsung.android.app.taskedge
+Phone: com.samsung.android.app.telephonyui
+Wearable Manager Installer: com.samsung.android.app.watchmanagerstub
+App Lock: com.samsung.android.applock
+Authentication Framework: com.samsung.android.authfw
+BBCAgent: com.samsung.android.bbc.bbcagent
+SmartThings: com.samsung.android.beaconmanager
+Default: com.samsung.android.beyond.p00.wallpapermulti
+Face: com.samsung.android.bio.face.service
+Bixby Voice: com.samsung.android.bixby.agent
+Bixby Voice Stub: com.samsung.android.bixby.agent.dummy
+Bixby Service: com.samsung.android.bixby.service
+Voice wake-up: com.samsung.android.bixby.wakeup
+Blue light filter: com.samsung.android.bluelightfilter
+Calendar: com.samsung.android.calendar
+ClipboardUIService: com.samsung.android.clipboarduiservice
+Contacts: com.samsung.android.contacts
+Dual Messenger: com.samsung.android.da.daagent
+Phone: com.samsung.android.dialer
+DQA: com.samsung.android.dqagent
+CarmodeStub: com.samsung.android.drivelink.stub
+Dsms: com.samsung.android.dsms
+Dynamic Lockscreen: com.samsung.android.dynamiclock
+SmartThings: com.samsung.android.easysetup
+EdgeLighting+: com.samsung.android.edgelightingeffectunit
+emojiupdater: com.samsung.android.emojiupdater
+Find My Mobile: com.samsung.android.fmm
+Game Optimizing Service: com.samsung.android.game.gos
+Good Lock: com.samsung.android.goodlock
+Gear VR Service: com.samsung.android.hmt.vrsvc
+Call: com.samsung.android.incallui
+IpsGeofence: com.samsung.android.ipsgeofence
+Keyguard Wallpaper Updator: com.samsung.android.keyguardwallpaperupdator
+Samsung Kids Installer: com.samsung.android.kidsinstaller
+Workspace: com.samsung.android.knox.containeragent
+slocation: com.samsung.android.location
+Device care: com.samsung.android.lool
+MDMApp: com.samsung.android.mdm
+Messages: com.samsung.android.messaging
+Samsung Experience Service: com.samsung.android.mobileservice
+MultiStar: com.samsung.android.multistar
+Wi-Fi Tips: com.samsung.android.net.wifi.wifiguider
+NetworkDiagnostic: com.samsung.android.networkdiagnostic
+Task Changer: com.samsung.android.pluginrecents
+Filter Provider: com.samsung.android.provider.filterprovider
+StickerProvider: com.samsung.android.provider.stickerprovider
+Contacts Storage: com.samsung.android.providers.contacts
+Context Service: com.samsung.android.providers.context
+QuickStar: com.samsung.android.qstuner
+Customization Service: com.samsung.android.rubin.app
+SamsungPositioning: com.samsung.android.samsungpositioning
+Samsung Cloud: com.samsung.android.scloud
+HandwritingService: com.samsung.android.sdk.handwriting
+Iris: com.samsung.android.server.iris
+Translate: com.samsung.android.service.airviewdictionary
+Live message: com.samsung.android.service.livedrawing
+Glance: com.samsung.android.service.pentastic
+People edge: com.samsung.android.service.peoplestripe
+Separate app sound: com.samsung.android.setting.multisound
+ShortcutBNR: com.samsung.android.shortcutbackupservice
+Device security: com.samsung.android.sm.devicesecurity
+SCPM Client: com.samsung.android.sm.policy
+Smart Call: com.samsung.android.smartcallprovider
+SmartFaceService: com.samsung.android.smartface
+SmartFittingService: com.samsung.android.smartfitting
+Smart View: com.samsung.android.smartmirroring
+com.samsung.android.smartswitchassistant: com.samsung.android.smartswitchassistant
+Security policy updates: com.samsung.android.spdclient
+Write on PDF: com.samsung.android.spdfnote
+StickerCenter: com.samsung.android.stickercenter
+SVC Agent: com.samsung.android.svcagent
+Samsung Themes: com.samsung.android.themecenter
+Samsung Themes: com.samsung.android.themestore
+Samsung Time Zone Data: com.samsung.android.timezone.data_P
+Time Zone Updater: com.samsung.android.timezone.updater
+Universal switch: com.samsung.android.universalswitch
+Video Player: com.samsung.android.video
+Video: com.samsung.android.videolist
+Bixby Vision: com.samsung.android.visionintelligence
+com.samsung.android.wallpaper.res: com.samsung.android.wallpaper.res
+Digital wellbeing: com.samsung.android.wellbeing
+Story Video Editor: com.samsung.app.highlightplayer
+Video trimmer: com.samsung.app.newtrim
+Slow motion editor: com.samsung.app.slowmotion
+ClipboardSaveService: com.samsung.clipboardsaveservice
+CMHProvider: com.samsung.cmh
+Call+: com.samsung.crane
+com.samsung.daydream.customization: com.samsung.daydream.customization
+com.samsung.faceservice: com.samsung.faceservice
+Galaxy Graphics Driver: com.samsung.gpudriver.S8MaliG71_90
+IPService: com.samsung.ipservice
+mlp: com.samsung.mlp
+RcsSettings: com.samsung.rcs
+Safety information: com.samsung.safetyinformation
+CSC: com.samsung.sec.android.application.csc
+Gallery stories: com.samsung.storyservice
+Voice Service: com.samsung.svoice.sync
+SystemUIBixby2: com.samsung.systemui.bixby2
+HideNotch: com.samsung.systemui.hidenotch
+LockStar: com.samsung.systemui.lockstar
+NavStar: com.samsung.systemui.navillera
+bootagent: com.samsung.ucs.agent.boot
+eSE UCS Plugin: com.samsung.ucs.agent.ese
+VisionProvider: com.samsung.visionprovider
+Service mode RIL: com.sec.android.RilServiceModeApp
+Automation Test: com.sec.android.app.DataCreate
+Samsung setup wizard: com.sec.android.app.SecSetupWizard
+Samsung ApexService: com.sec.android.app.apex
+AppLinker: com.sec.android.app.applinker
+BluetoothTest: com.sec.android.app.bluetoothtest
+Camera: com.sec.android.app.camera
+Clock: com.sec.android.app.clockpackage
+DeviceKeystring: com.sec.android.app.factorykeystring
+Blocked calls/msgs: com.sec.android.app.firewall
+HwModuleTest: com.sec.android.app.hwmoduletest
+One UI Home: com.sec.android.app.launcher
+Magnifier: com.sec.android.app.magnifier
+Samsung Music: com.sec.android.app.music
+My Files: com.sec.android.app.myfiles
+OCR Service: com.sec.android.app.ocrservice
+DRParser Mode: com.sec.android.app.parser
+Perso: com.sec.android.app.personalization
+Calculator: com.sec.android.app.popupcalculator
+Quick tools: com.sec.android.app.quicktool
+ringtonebackup: com.sec.android.app.ringtoneBR
+Safety assistance: com.sec.android.app.safetyassurance
+Galaxy Store: com.sec.android.app.samsungapps
+Samsung Internet: com.sec.android.app.sbrowser
+Service mode: com.sec.android.app.servicemodeapp
+SetupWizardLegalProvider: com.sec.android.app.setupwizardlegalprovider
+SIM card manager: com.sec.android.app.simsettingmgr
+SoundAlive: com.sec.android.app.soundalive
+SuwScriptPlayer: com.sec.android.app.suwscriptplayer
+Video Editor: com.sec.android.app.vepreload
+Voice Recorder: com.sec.android.app.voicenote
+WlanTest: com.sec.android.app.wlantest
+LED Cover Service: com.sec.android.cover.ledcover
+Weather: com.sec.android.daemonapp
+DiagMonAgent: com.sec.android.diagmonagent
+Smart Switch Agent: com.sec.android.easyMover.Agent
+EasyOneHand: com.sec.android.easyonehand
+Launcher: com.sec.android.emergencylauncher
+EmergencyManagerService: com.sec.android.emergencymode.service
+Gallery: com.sec.android.gallery3d
+Surround shot: com.sec.android.gallery3d.panorama360view
+Samsung Keyboard: com.sec.android.inputmethod
+360° Photo Editor: com.sec.android.mimage.gear360editor
+Photo Editor: com.sec.android.mimage.photoretouching
+Selective focus: com.sec.android.ofviewer
+Application Installer: com.sec.android.preloadinstaller
+BadgeProvider: com.sec.android.provider.badge
+EmergencyProvider: com.sec.android.provider.emergencymode
+Samsung Device Health Manager Service: com.sec.android.sdhms
+Health Service: com.sec.android.service.health
+Software update: com.sec.android.soagent
+SplitSoundService: com.sec.android.splitsound
+UIBCVirtualSoftkey: com.sec.android.uibcvirtualsoftkey
+Wallpapers: com.sec.android.wallpapercropper2
+Favorite Contacts: com.sec.android.widgetapp.easymodecontactswidget
+Galaxy Essentials Widget: com.sec.android.widgetapp.samsungapps
+User manual: com.sec.android.widgetapp.webmanual
+RilNotifier: com.sec.app.RilErrorNotifier
+Record screen: com.sec.app.screenrecorder
+TetheringAutomation: com.sec.automation
+com.sec.bcservice: com.sec.bcservice
+Knox Enrollment Service: com.sec.enterprise.knox.cloudmdm.smdms
+Enterprise Sim Pin Service: com.sec.enterprise.mdm.services.simpin
+com.sec.epdg: com.sec.epdg
+EpdgTestApp: com.sec.epdgtestapp
+DeviceTest: com.sec.factory
+Camera Test: com.sec.factory.camera
+Camera Iris User Test: com.sec.factory.iris.usercamera
+Adapt Sound: com.sec.hearingadjust
+com.sec.ims: com.sec.ims
+ImsLogger: com.sec.imslogger
+IMS Service: com.sec.imsservice
+Samsung Location SDK: com.sec.location.nsflp2
+MLDAPlog: com.sec.mldapchecker
+SilentLogging: com.sec.modem.settings
+com.sec.phone: com.sec.phone
+Samsung Push Service: com.sec.spp.push
+SecVideoEngineService: com.sec.sve
+Wi-Fi Calling: com.sec.unifiedwfc
+USBSettings: com.sec.usbsettings
+NSDSWebApp: com.sec.vsim.ericssonnsds.webapp
+com.sec.internal.vsim.VSimServiceApp: com.sec.vsimservice
+SEMFactoryApp: com.sem.factoryapp
+Phone Number Locator: com.sgmc.phonenumberlocatorservice
+SKMSAgentService: com.skms.android.agent
+Corsi Tools: com.tools.corsicanu
+TeeService: com.trustonic.teeservice
+Configuration message: com.wsomacp
